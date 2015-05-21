@@ -1,0 +1,10 @@
+package com.example.helpdesk;
+
+public class HttpThread extends Thread{
+	
+	@Override
+	public void run(){
+		
+	}
+
+}
