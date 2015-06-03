@@ -12,7 +12,7 @@
             android:layout_heigth="wrap_content"
             android:text="@string/user_create_job_title"
             android:gravity="center_Horizontal"
-            android:textSize="30dp
+            android:textSize="30dp />
             
             <LinearLayout
                         android:layout_width="match_parent"
